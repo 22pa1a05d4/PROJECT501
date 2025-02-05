@@ -1,5 +1,5 @@
 const { Pool } = require("pg");
-//cont 
+
 const pool = new Pool({
   user: "postgres",
   host: "localhost",
